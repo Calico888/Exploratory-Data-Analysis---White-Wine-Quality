@@ -505,3 +505,7 @@ On the other hand, I found a tidy data set which was easy to work with as I didn
 Overall I am content about the data set I have analyzed and of the insights I found. I didn't expect to find features that I wouldn't think about to contribute to the wines quality ratings.
 
 For the future I would perform further analyses outside EDA in order to confirm the findings or find some insights that perhaps are not obvious at this stage.
+
+# References
+
+Udacity Resources
